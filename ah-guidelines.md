@@ -1,12 +1,12 @@
-# Auction House Guidelines (v0.1.0)
+# Auction House Guidelines (v0.1.1)
 
 ## Spawner Prices
 
 | Spawner  | Min-Max Price | Rec. Price |
 | ------------- | ------------- | ------------- |
 | Bat		  | 100k-500k  | 400k  |
-| Snowman	  | 500k-1.5m  | 1m  |
-| Squid	  | 500k-1.5m  | 1m  |
+| Snowman	  | 800k-1.5m  | 1m  |
+| Squid	  | 800k-1.5m  | 1m  |
 | Pig		  | 1.5m-2.5m  | 2m  |
 | Cow		  | 1.5m-2.5m  | 2m  |
 | Mooshroom	 | 3m-5m  | 4m  |
