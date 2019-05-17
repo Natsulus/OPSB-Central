@@ -1,4 +1,4 @@
-# Auction House Guidelines (v0.1.1)
+# Auction House Price Guide (v0.2.0)
 
 ## Spawner Prices
 
@@ -9,7 +9,7 @@
 | Squid	  | 800k-1.5m  | 1m  |
 | Pig		  | 1.5m-2.5m  | 2m  |
 | Cow		  | 1.5m-2.5m  | 2m  |
-| Mooshroom	 | 3m-5m  | 4m  |
+| Mooshroom	 | 2m-4m  | 3.2m  |
 | Chicken	  | 2m-3m  | 3m  |
 | Sheep	  | 1m-2m  | 1.5m  |
 | Slime	  | 5m-7m  | 6m  |
@@ -23,11 +23,11 @@
 | Llama		 | 1m-2m  | 1.2m  |
 | Horse		 | 800k-1.5m  | 1m  |
 | Witch			| 2m-3m  | 3m  |
-| Wolf		 | 1m-2m  | 1.4m  |
-| Polar Bear	  | 1m-2m  | 1.4m  |
+| Wolf		 | 1m-2m  | 1.3m  |
+| Polar Bear	  | 1m-2m  | 1.3m  |
 | Enderman	  | 2m-3m  | 2.8m  |
 | Blaze			 | 2m-3m  | 3m  |
-| Zombie Pigman	  | 4m-6m  | 5.5m  |
+| Zombie Pigman	  | 2m-5m  | 3m  |
 | Spider		  | 1.5m-2.5m  | 2.3m  |
 | Cave Spider		  | 1.5m-2.5m  | 2.3m  |
 | Iron Golem	  | 6m-9m  | 7.8m  |
