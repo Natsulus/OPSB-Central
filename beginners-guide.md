@@ -1,4 +1,4 @@
-# Beginners Guide (v0.1.1)
+# Beginners Guide (v0.1.2)
 
 Please read the Behaviour Guidelines (not made yet) first.
 
@@ -13,7 +13,7 @@ Don't think of this like it's Regular Skyblock, this is OP Skyblock and you'll s
 
 ## Team Player
 
-If you're planning to play with friends on a single island, you can invite them to join with `/is invite <playername>` and they can accept with `/is accept`. **WARNING:** If they accept, they'll lose all their items in their inventory at the time as well as their entire island. 
+If you're planning to play with friends on a single island, you can invite them to join with `/is invite <playername>` and they can accept with `/is accept`. **WARNING:** If they accept, they'll lose all their items in their inventory at the time as well as their entire island. Items in Ender Chest and Private Vault (a server plugin, requires rank) will remain untouched, so place items in either of those before accepting an invite.
 
 You could invite other newbies to join your island, but I wouldn't recommend it as you won't know what might happen in the future (e.g. griefing, stealing, etc).
 
