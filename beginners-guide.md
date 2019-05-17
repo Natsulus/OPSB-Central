@@ -1,4 +1,4 @@
-# Beginners Guide (v0.1.0)
+# Beginners Guide (v0.1.1)
 
 Please read the Behaviour Guidelines (not made yet) first.
 
@@ -36,7 +36,11 @@ In OPSB, cobble generators don't just generate cobble, they also generate all ot
 
 How do you build a cobble generator? Google it. Or see below for a basic one.
 
-[INSERT Cobble Gen Guide]
+Basic Cobble Generator Guide: https://www.wikihow.com/Make-an-Infinite-Cobblestone-Generator-in-Minecraft
+
+Other Cobble Gen Designs: https://minecraft.gamepedia.com/Tutorials/Cobblestone_farming
+
+[Cobble Gen Guide will be posted here with images at a later date]
 
 Note: If your lava turns into obsidian, you can just right click the obsidian with the bucket to get your lava back.
 
@@ -63,7 +67,9 @@ To return to your island you can just use the command `/is go`
 ## Building Down
 You may not have noticed, but if you press F3 you'll see that you're at around y128 and might wonder how to build down, here's how.
 
-INSERT Guide to Build Down
+How to Build Down Answer: https://gaming.stackexchange.com/a/35201
+
+[Guide to Build Down will be posted here with images at a later date]
 
 ## Conclusion
 As you'll see, the process is fairly simple. Mine ores, sell them, then buy blocks from `/warp shop` and build your island. This is just a beginner guide to get you started so if you want to know more, I recommend checking out the other guides such as: TBA
